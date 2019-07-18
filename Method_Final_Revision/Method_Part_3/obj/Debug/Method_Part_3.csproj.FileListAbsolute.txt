@@ -1,0 +1,7 @@
+E:\COMP-100\Method_Final_Revision\Method_Part_3\bin\Debug\Method_Part_3.exe.config
+E:\COMP-100\Method_Final_Revision\Method_Part_3\bin\Debug\Method_Part_3.exe
+E:\COMP-100\Method_Final_Revision\Method_Part_3\bin\Debug\Method_Part_3.pdb
+E:\COMP-100\Method_Final_Revision\Method_Part_3\obj\Debug\Method_Part_3.csprojAssemblyReference.cache
+E:\COMP-100\Method_Final_Revision\Method_Part_3\obj\Debug\Method_Part_3.csproj.CoreCompileInputs.cache
+E:\COMP-100\Method_Final_Revision\Method_Part_3\obj\Debug\Method_Part_3.exe
+E:\COMP-100\Method_Final_Revision\Method_Part_3\obj\Debug\Method_Part_3.pdb

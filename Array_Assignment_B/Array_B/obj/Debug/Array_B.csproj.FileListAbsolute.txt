@@ -1,0 +1,7 @@
+E:\COMP-100\Array_Assignment_B\Array_B\bin\Debug\Array_B.exe.config
+E:\COMP-100\Array_Assignment_B\Array_B\bin\Debug\Array_B.exe
+E:\COMP-100\Array_Assignment_B\Array_B\bin\Debug\Array_B.pdb
+E:\COMP-100\Array_Assignment_B\Array_B\obj\Debug\Array_B.csprojAssemblyReference.cache
+E:\COMP-100\Array_Assignment_B\Array_B\obj\Debug\Array_B.csproj.CoreCompileInputs.cache
+E:\COMP-100\Array_Assignment_B\Array_B\obj\Debug\Array_B.exe
+E:\COMP-100\Array_Assignment_B\Array_B\obj\Debug\Array_B.pdb

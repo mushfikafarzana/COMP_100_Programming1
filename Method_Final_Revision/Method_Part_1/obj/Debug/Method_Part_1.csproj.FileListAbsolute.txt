@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Method_Final_Revision\Method_Part_1\bin\Debug\Method_Part_1.exe.config
+C:\Users\User\source\repos\Method_Final_Revision\Method_Part_1\bin\Debug\Method_Part_1.exe
+C:\Users\User\source\repos\Method_Final_Revision\Method_Part_1\bin\Debug\Method_Part_1.pdb
+C:\Users\User\source\repos\Method_Final_Revision\Method_Part_1\obj\Debug\Method_Part_1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Method_Final_Revision\Method_Part_1\obj\Debug\Method_Part_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Method_Final_Revision\Method_Part_1\obj\Debug\Method_Part_1.exe
+C:\Users\User\source\repos\Method_Final_Revision\Method_Part_1\obj\Debug\Method_Part_1.pdb
+E:\COMP-100\Method_Final_Revision\Method_Part_1\bin\Debug\Method_Part_1.exe.config
+E:\COMP-100\Method_Final_Revision\Method_Part_1\bin\Debug\Method_Part_1.exe
+E:\COMP-100\Method_Final_Revision\Method_Part_1\bin\Debug\Method_Part_1.pdb
+E:\COMP-100\Method_Final_Revision\Method_Part_1\obj\Debug\Method_Part_1.csprojAssemblyReference.cache
+E:\COMP-100\Method_Final_Revision\Method_Part_1\obj\Debug\Method_Part_1.csproj.CoreCompileInputs.cache
+E:\COMP-100\Method_Final_Revision\Method_Part_1\obj\Debug\Method_Part_1.exe
+E:\COMP-100\Method_Final_Revision\Method_Part_1\obj\Debug\Method_Part_1.pdb
