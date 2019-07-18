@@ -1,0 +1,14 @@
+H:\COMP100\Week10\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+H:\COMP100\Week10\ArrayDemo\bin\Debug\ArrayDemo.exe
+H:\COMP100\Week10\ArrayDemo\bin\Debug\ArrayDemo.pdb
+H:\COMP100\Week10\ArrayDemo\obj\Debug\ArrayDemo.csprojAssemblyReference.cache
+H:\COMP100\Week10\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+H:\COMP100\Week10\ArrayDemo\obj\Debug\ArrayDemo.exe
+H:\COMP100\Week10\ArrayDemo\obj\Debug\ArrayDemo.pdb
+E:\COMP-100\Week10\ArrayDemo\obj\Debug\ArrayDemo.csprojAssemblyReference.cache
+E:\COMP-100\Week10\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+E:\COMP-100\Week10\ArrayDemo\obj\Debug\ArrayDemo.exe
+E:\COMP-100\Week10\ArrayDemo\obj\Debug\ArrayDemo.pdb
+E:\COMP-100\Week10\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+E:\COMP-100\Week10\ArrayDemo\bin\Debug\ArrayDemo.exe
+E:\COMP-100\Week10\ArrayDemo\bin\Debug\ArrayDemo.pdb

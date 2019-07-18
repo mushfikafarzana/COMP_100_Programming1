@@ -1,0 +1,7 @@
+H:\COMP100\Week10\pattern\obj\Debug\pattern.csprojAssemblyReference.cache
+H:\COMP100\Week10\pattern\obj\Debug\pattern.csproj.CoreCompileInputs.cache
+H:\COMP100\Week10\pattern\bin\Debug\pattern.exe.config
+H:\COMP100\Week10\pattern\bin\Debug\pattern.exe
+H:\COMP100\Week10\pattern\bin\Debug\pattern.pdb
+H:\COMP100\Week10\pattern\obj\Debug\pattern.exe
+H:\COMP100\Week10\pattern\obj\Debug\pattern.pdb
